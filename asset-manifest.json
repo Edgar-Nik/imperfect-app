@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/imperfect-app/static/css/main.bfee3013.css",
+    "main.js": "/imperfect-app/static/js/main.118c50f6.js",
+    "static/media/logo.svg": "/imperfect-app/static/media/logo.462eb3322400cdb6bbe2b1beb7e69c5f.svg",
+    "index.html": "/imperfect-app/index.html",
+    "main.bfee3013.css.map": "/imperfect-app/static/css/main.bfee3013.css.map",
+    "main.118c50f6.js.map": "/imperfect-app/static/js/main.118c50f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfee3013.css",
+    "static/js/main.118c50f6.js"
+  ]
+}
